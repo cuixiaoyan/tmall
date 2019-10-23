@@ -36,17 +36,30 @@
             <span class="price_unit">元（不会真实付款）</span>
         </div>
     </div>
+    <%--<div class="order_reward_div">--%>
+        <%--<div class="order_reward_alipay_div">--%>
+            <%--<p class="order_reward_name" id="reward_alipay_name">支付宝</p>--%>
+            <%--<img src="${pageContext.request.contextPath}/res/images/fore/WebsiteImage/alipay.jpg"/>--%>
+        <%--</div>--%>
+        <%--<div class="order_reward_weixinpay_div">--%>
+            <%--<p class="order_reward_name" id="reward_weixin_name">微信</p>--%>
+            <%--<img src="${pageContext.request.contextPath}/res/images/fore/WebsiteImage/weixinpay.png">--%>
+        <%--</div>--%>
+        <%--&lt;%&ndash;<p>制作不易，欢迎打赏，客官请随意</p>&ndash;%&gt;--%>
+    <%--</div>--%>
+
     <div class="order_reward_div">
         <div class="order_reward_alipay_div">
-            <p class="order_reward_name" id="reward_alipay_name">支付宝</p>
-            <img src="${pageContext.request.contextPath}/res/images/fore/WebsiteImage/alipay.jpg"/>
+            <p class="order_reward_name" id="reward_alipay_name">小程序</p>
+            <img src="https://cuixiaoyande.oss-cn-shanghai.aliyuncs.com/238A50803B74F2751CB79EDF89EF20FB_1570698739427.JPG"/>
         </div>
         <div class="order_reward_weixinpay_div">
-            <p class="order_reward_name" id="reward_weixin_name">微信</p>
-            <img src="${pageContext.request.contextPath}/res/images/fore/WebsiteImage/weixinpay.png">
+            <p class="order_reward_name" id="reward_weixin_name">QQ号</p>
+            <img src="https://cuixiaoyande.oss-cn-shanghai.aliyuncs.com/WechatIMG40_1564724952045.jpeg">
         </div>
-        <p>制作不易，欢迎打赏，客官请随意</p>
+        <%--<p>制作不易，欢迎打赏，客官请随意</p>--%>
     </div>
+
     <div class="order_pay_div">
         <script>
             function pay() {

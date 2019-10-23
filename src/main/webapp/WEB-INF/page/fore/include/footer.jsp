@@ -38,17 +38,17 @@
             <a href="http://www.dingtalk.com/?lwfrom=20150205115110773" target="_blank">钉钉</a>
             <a href="https://www.alipay.com" target="_blank">支付宝</a>
         </p>
-        <div class="copyright">
-            <span style="font-weight: bold;">© 2019 贤趣开发小组 版权所有</span>
-            <span>&nbsp;&nbsp;&nbsp;&nbsp;你知道什么是996.ICU吗？</span>
-            <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"/></a>
-            <br/>
-            <span style="font-weight: bold;">严正声明：此系统仅供个人学习、研究之用,请勿用于商业用途</span>
-            <br/>
-            <a href="http://www.beian.miit.gov.cn/" target="_blank" style="text-align: center;display: block;">
-                <img src="${pageContext.request.contextPath}/res/images/fore/WebsiteImage/TB1yEqRPXXXXXXPXpXXXXXXXXXX-20-20.png">
-                陕ICP备19018406号-1
-            </a>
-        </div>
+        <%--<div class="copyright">--%>
+            <%--<span style="font-weight: bold;">© 2019 贤趣开发小组 版权所有</span>--%>
+            <%--<span>&nbsp;&nbsp;&nbsp;&nbsp;你知道什么是996.ICU吗？</span>--%>
+            <%--<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"/></a>--%>
+            <%--<br/>--%>
+            <%--<span style="font-weight: bold;">严正声明：此系统仅供个人学习、研究之用,请勿用于商业用途</span>--%>
+            <%--<br/>--%>
+            <%--<a href="http://www.beian.miit.gov.cn/" target="_blank" style="text-align: center;display: block;">--%>
+                <%--<img src="${pageContext.request.contextPath}/res/images/fore/WebsiteImage/TB1yEqRPXXXXXXPXpXXXXXXXXXX-20-20.png">--%>
+                <%--陕ICP备19018406号-1--%>
+            <%--</a>--%>
+        <%--</div>--%>
     </div>
 </div>
